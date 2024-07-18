@@ -1,3 +1,4 @@
+"use client"
 import { resolve } from "styled-jsx/css"
 
 async function takeTime(params) {
